@@ -12,19 +12,19 @@ Welcome to Yotto-Fi! We're a decentralized finance (DeFi) platform that combines
 
 - GitHub Repository
 - Documentation
-- Join our community on Discord or Telegram.
+- Join our community on Discord
 
 ## 🗺️ Roadmap
 
 We're excited about the future! Here's what's coming up:
 - Launching more games
-- Expanding to other blockchains
+- Points...
 
 ## 👥 Contributors
 
 Meet the team behind Yotto-Fi:
-- @chaos-gnome - Founder
-- @contributor1 - Developer
-- @contributor2 - Designer
+- @chaos-gnome - Dev & Co-Founder
+- @TheGrottoGecko - Dev & Co-Founder
+- @zenkyaputen - Dev & Co-Founder
 
 !GitHub Stats
