@@ -26,5 +26,3 @@ Meet the team behind Yotto-Fi:
 - @chaos-gnome - Dev & Co-Founder
 - @TheGrottoGecko - Dev & Co-Founder
 - @zenkyaputen - Dev & Co-Founder
-
-!GitHub Stats
